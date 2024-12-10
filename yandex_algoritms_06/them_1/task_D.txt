@@ -1,0 +1,14 @@
+13
+0 5 freeze
+0 -5 freeze
+0 0 freeze
+0 -5 heat
+0 5 heat
+0 0 heat
+0 0 auto
+0 5 auto
+0 -5 auto
+0 5 fan
+0 -5 fan
+0 0 fan
+-2 0 fan
